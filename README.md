@@ -2,7 +2,7 @@
 🔥 Animated Header Banner
 ============================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Yusuf+Satilmis;Data+Analyst+%7C+Trainer;Excel+%7C+Power+BI+%7C+Tableau+%7C+MySQL+%7C+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Yusuf+Satilmis;Data+Analyst+%7C+Trainer;+%7C+Excel+%7C+Power+BI+%7C+Tableau+%7C+MySQL+%7C+Python" />
 </p>
 
 ---
