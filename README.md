@@ -1,50 +1,86 @@
 # 👋 Hi, I'm **Yusuf Satilmis**
-### 🚀 *Data Analyst | Trainer | Turning Data Into Insight*
+### 🚀 Data Analyst | Trainer | Turning Raw Data Into Insights
 
-Welcome to my GitHub! I specialise in transforming raw data into meaningful, actionable insights using modern analytics tools and cloud technologies.
-
----
-
-## 🔧 Tech Stack & Tools
-
-### 📊 Data Analysis & BI
-<p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" height="48"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" height="48"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" height="48"/>
-</p>
-
-### 🛢️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="48"/>
-</p>
-
-### ☁️ Cloud Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="48"/>
-</p>
-
-### 🐍 Programming & Data Wrangling
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="48"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" height="48"/>
-</p>
+I’m passionate about transforming data into clear, meaningful stories through analytics, BI dashboards, and data‑driven solutions.  
+Here’s a snapshot of my technical toolbox 👇
 
 ---
 
-## 💡 What I Do
-- 📈 Build interactive dashboards (Power BI, Tableau, Excel)
-- 🧹 Clean & transform data using Python (Pandas)
-- 🗄️ Work with relational databases using MySQL
-- ☁️ Deploy cloud-based data solutions on Azure
-- 🎓 Train individuals & teams in Data Analysis
+## 🔧 **Tech Stack & Tools**
+
+### 📊 Data Analysis & BI  
+<p align="left">
+  https://img.icons8.com/color/48/microsoft-excel-2019--v1.png
+  https://img.icons8.com/color/48/tableau-software.png
+  https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg
+</p>
+
+### 🛢️ Databases  
+<p align="left">
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+</p>
+
+### ☁️ Cloud  
+<p align="left">
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg
+</p>
+
+### 🐍 Python for Data  
+<p align="left">
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+  https://pandas.pydata.org/static/img/pandas_mark.svg
+</p>
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: *[Add your link here]*
-- 📧 Email: *[Add your email here]*
+## 💼 **My Skillset**
+
+### 🟩 **Microsoft Excel**
+- 📊 PivotTables & PivotCharts  
+- ✏️ Advanced Formulas & Functions (LOOKUPs, IFs, SUMIFS, INDEX/MATCH)  
+- 📈 Dashboard building & KPI reporting  
+- 🔍 Data cleaning & transformations  
+
+### 🔷 **Tableau**
+- 📊 Interactive dashboards  
+- 🎨 Data visualisation best practices  
+- 🗂️ Storytelling & worksheet optimisation  
+- 🔗 Blending & joining data sources  
+
+### 🟡 **Power BI**
+- 🔄 Power Query (M language basics, transformations)  
+- 📊 DAX fundamentals  
+- 📚 Data modelling best practice  
+- 📈 Paginated & interactive reporting  
+- 🔗 Combining multiple data sources  
+
+### 🔵 **MySQL**
+- 🗄️ Database fundamentals  
+- 🔍 Filtering with `WHERE`  
+- 🔗 `JOIN` operations (INNER, LEFT, RIGHT)  
+- 📊 Aggregations with `GROUP BY`  
+- 📏 Sorting with `ORDER BY`  
+- 🧩 Writing structured SQL queries  
+
+### 🐼 **Python (Pandas)**
+- 📥 Importing & reading data (`read_csv`, `read_excel`)  
+- 🔧 Data cleaning (handling nulls, duplicates)  
+- 🔄 Transformations (`apply`, `map`, `astype`, `replace`)  
+- 📊 Aggregations (`groupby`, `pivot_table`)  
+- 🔗 Merging & joining DataFrames  
+- 📈 Basic plotting integrations (Matplotlib, Seaborn)  
 
 ---
 
-🔥 *Want me to add GitHub stats, trophies, a typing animation banner, or a dark mode version?*
+## 🤝 **Let’s Connect**
+- 💼 LinkedIn: *[Add your link]*  
+- 📧 Email: *[Add your email]*  
+
+---
+
+If you'd like, I can also create:  
+🔥 A dark‑mode version  
+📊 GitHub stats sections  
+✨ Animated banners  
+🎨 A cleaner, more visual card‑style layout  
+
