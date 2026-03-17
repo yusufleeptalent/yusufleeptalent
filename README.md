@@ -1,34 +1,34 @@
 # 👋 Hi, I'm **Yusuf Satilmis**
 ### 🚀 Data Analyst | Trainer | Turning Raw Data Into Insights
 
-I’m passionate about transforming data into clear, meaningful stories through analytics, BI dashboards, and data‑driven solutions.  
-Here’s a snapshot of my technical toolbox 👇
+Welcome to my GitHub profile! I turn data into meaningful insights using BI tools, SQL, and Python.  
+Below is my tech stack with working icons 👇
 
 ---
 
-## 🔧 **Tech Stack & Tools**
+## 🔧 Tech Stack & Tools
 
 ### 📊 Data Analysis & BI  
-<p align="left">
-  https://img.icons8.com/color/48/microsoft-excel-2019--v1.png
-  https://img.icons8.com/color/48/tableau-software.png
-  https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg
+<p>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="40" />
 </p>
 
 ### 🛢️ Databases  
-<p align="left">
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+<p>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" height="45" />
 </p>
 
 ### ☁️ Cloud  
-<p align="left">
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg
+<p>
+  <img src="https://img.icons8.com/color/48/azure-1.png" height="45" />
 </p>
 
-### 🐍 Python for Data  
-<p align="left">
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-  https://pandas.pydata.org/static/img/pandas_mark.svg
+### 🐍 Python & Pandas  
+<p>
+  <img src="https://img.icons8.com/color/48/python.png" height="45" />
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="45" />
 </p>
 
 ---
@@ -37,50 +37,48 @@ Here’s a snapshot of my technical toolbox 👇
 
 ### 🟩 **Microsoft Excel**
 - 📊 PivotTables & PivotCharts  
-- ✏️ Advanced Formulas & Functions (LOOKUPs, IFs, SUMIFS, INDEX/MATCH)  
+- ✏️ Advanced formulas & functions  
 - 📈 Dashboard building & KPI reporting  
 - 🔍 Data cleaning & transformations  
 
 ### 🔷 **Tableau**
 - 📊 Interactive dashboards  
-- 🎨 Data visualisation best practices  
+- 🎨 Visualisation best practices  
 - 🗂️ Storytelling & worksheet optimisation  
 - 🔗 Blending & joining data sources  
 
 ### 🟡 **Power BI**
-- 🔄 Power Query (M language basics, transformations)  
-- 📊 DAX fundamentals  
-- 📚 Data modelling best practice  
-- 📈 Paginated & interactive reporting  
-- 🔗 Combining multiple data sources  
+- 🔄 Power Query (data cleaning & transformations)  
+- 📊 DAX basics  
+- 📚 Data modelling  
+- 📈 Reporting (interactive + paginated)  
+- 🔗 Connecting and shaping multiple data sources  
 
 ### 🔵 **MySQL**
-- 🗄️ Database fundamentals  
-- 🔍 Filtering with `WHERE`  
-- 🔗 `JOIN` operations (INNER, LEFT, RIGHT)  
+- 🔍 Filtering using `WHERE`  
+- 🔗 `JOIN` operations  
 - 📊 Aggregations with `GROUP BY`  
 - 📏 Sorting with `ORDER BY`  
 - 🧩 Writing structured SQL queries  
 
 ### 🐼 **Python (Pandas)**
-- 📥 Importing & reading data (`read_csv`, `read_excel`)  
-- 🔧 Data cleaning (handling nulls, duplicates)  
-- 🔄 Transformations (`apply`, `map`, `astype`, `replace`)  
-- 📊 Aggregations (`groupby`, `pivot_table`)  
-- 🔗 Merging & joining DataFrames  
-- 📈 Basic plotting integrations (Matplotlib, Seaborn)  
+- 📥 Importing & exporting data  
+- 🔧 Data cleaning & preprocessing  
+- 🔄 Transformations (`apply`, `map`, `replace`)  
+- 📊 Aggregation (`groupby`, `pivot_table`)  
+- 🔗 Joining & merging DataFrames  
+- 📈 Visualisation (Matplotlib / Seaborn)  
 
 ---
 
-## 🤝 **Let’s Connect**
+## 🤝 Connect With Me
 - 💼 LinkedIn: *[Add your link]*  
 - 📧 Email: *[Add your email]*  
 
 ---
 
 If you'd like, I can also create:  
-🔥 A dark‑mode version  
-📊 GitHub stats sections  
-✨ Animated banners  
-🎨 A cleaner, more visual card‑style layout  
-
+✨ A dark‑mode version  
+📊 GitHub stats section  
+🔥 Banner or animated header  
+🎨 A more visual card‑style layout  
