@@ -1,8 +1,8 @@
-<!-- ============================
-🔥 Animated Header Banner
-============================= -->
+<!-- ===========================================
+🔥 Animated Typing Banner
+============================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Yusuf+Satilmis;Data+Analyst+%7C+Trainer;+%7C+Excel+%7C+Power+BI+%7C+Tableau+%7C+MySQL+%7C+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Yusuf+Satilmis;Data+Analyst+%7C+Trainer;Excel+%7C+Power+BI+%7C+Tableau+%7C+SQL+%7C+Python" />
 </p>
 
 ---
@@ -17,25 +17,25 @@ I work across modern BI platforms, spreadsheets, SQL databases, and Python analy
 
 ### 📊 **Data Analysis & BI**
 <p>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" />
-  <img src="https://img.icons8.com/color/48/tableau-software.png" />
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="48"/>
 </p>
 
 ### 🛢️ **Databases**
 <p>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
 </p>
 
 ### ☁️ **Cloud**
 <p>
-  <img src="https://img.icons8.com/color/48/azure-1.png" />
+  <img src="https://img.icons8.com/color/48/azure-1.png" alt="Azure" />
 </p>
 
 ### 🐍 **Python & Data Wrangling**
 <p>
-  <img src="https://img.icons8.com/color/48/python.png" />
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="48"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" />
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="48"/>
 </p>
 
 ---
@@ -103,8 +103,8 @@ I work across modern BI platforms, spreadsheets, SQL databases, and Python analy
 ---
 
 # 🤝 Connect With Me
-- 💼 LinkedIn: *Add your link*  
-- 📧 Email: *Add your email*  
+- 💼 LinkedIn: *(add your link)*  
+- 📧 Email: *(add your email)*  
 
 ---
 
