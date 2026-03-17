@@ -9,25 +9,25 @@ Welcome to my GitHub! I specialise in transforming raw data into meaningful, act
 
 ### 📊 Data Analysis & BI
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" title="Microsoft Excel"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="50" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" title="Tableau"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" height="48"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" height="48"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" height="48"/>
 </p>
 
 ### 🛢️ Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="48"/>
 </p>
 
 ### ☁️ Cloud Platforms
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Microsoft Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="48"/>
 </p>
 
 ### 🐍 Programming & Data Wrangling
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="80" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="48"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" height="48"/>
 </p>
 
 ---
@@ -47,4 +47,4 @@ Welcome to my GitHub! I specialise in transforming raw data into meaningful, act
 
 ---
 
-🔥 *Want me to add GitHub stats, trophies, or an animated banner?*
+🔥 *Want me to add GitHub stats, trophies, a typing animation banner, or a dark mode version?*
