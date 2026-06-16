@@ -30,12 +30,12 @@
 ## 🔧 Tools & Technologies
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="100"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="100"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="100"/>
 </p>
 
 ---
