@@ -66,11 +66,11 @@ I specialise in transforming complex datasets into clear, actionable insights. F
 
 ---
 
-## 📫 Connect With Me
+## 🟡 Pac-Man Contribution Game
 
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(add your email)*
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="pacman game"/>
+</p>
 ---
 
 <!-- 🔷 Footer -->
