@@ -1,83 +1,70 @@
-# Hi there 👋, I'm Yusuf Satilmis
+<!-- 🔷 Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Yusuf%20Satilmis&fontSize=40&fontColor=ffffff"/>
+</p>
+
+# 👋 Hi, I'm Yusuf
+
+💡 Data Analyst passionate about turning data into actionable insights  
+📊 Skilled in data visualization, analytics, and cloud-based solutions  
+
+---
+
+## 😂 Daily Data Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</p>
+
+---
+
+## 🔧 Tools & Technologies
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="100"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="100"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="100"/>
+</p>
+
+---
+
+### 📗 Excel  
+Advanced data analysis using formulas, pivot tables, Power Query, and dashboards to transform raw data into meaningful insights.
+
+### 📊 Tableau  
+Building interactive and visually compelling dashboards to explore trends, patterns, and business performance.
+
+### 📈 Power BI  
+Creating dynamic reports and dashboards with DAX and Power Query to support data-driven decision-making.
+
+### 🗄️ SQL  
+Writing efficient queries to extract, clean, and analyze structured data from relational databases.
+
+### 🐍 Python  
+Using Python (Pandas, NumPy, Matplotlib) for data cleaning, analysis, and automation.
+
+### ☁️ Azure  
+Working with Azure services for cloud-based data storage and analytics solutions.
+
+---
 
 ## 🚀 About Me
 
-🎓 Data Analyst & Trainer passionate about turning data into actionable insights.  
-📊 Experienced in data analysis, business intelligence, reporting, and dashboard development.  
-💡 Continuous learner with a strong interest in cloud technologies, data engineering, and analytics.  
-📍 Based in the UK
+I specialise in transforming complex datasets into clear, actionable insights. From data extraction and cleaning to visual storytelling, I enjoy working across the full data lifecycle using modern analytics tools.
 
 ---
 
-## 🛠️ Technical Skills
+## 🟡 Pac-Man Contribution Game
 
-### 📈 Data Analysis & BI
-- Microsoft Excel (Advanced Formulas, Pivot Tables, Power Query, Dashboards)
-- Tableau
-- Power BI
-- Data Visualization
-- KPI Reporting
-- Data Storytelling
-
-### 💾 Databases
-- SQL
-  - Data Extraction
-  - Joins
-  - Subqueries
-  - Aggregations
-  - Query Optimization
-
-### ☁️ Cloud & Data Platforms
-- Azure Data Services
-- Azure Data Factory
-- Azure SQL Database
-- Azure Storage
-- Data Pipelines
-
-### 🐍 Programming
-- Python
-- Pandas
-- NumPy
-- Data Cleaning
-- Data Transformation
-- Data Analysis Automation
-
-### 🔧 Tools & Technologies
-- Git & GitHub
-- Microsoft Office Suite
-- Google Colab
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="pacman game"/>
+</p>
 ---
 
-## 📂 Featured Projects
-
-### 📊 Sales Performance Dashboard
-Built an interactive Power BI dashboard to analyze sales trends, KPIs, and business performance.
-
-### 📈 Tableau Business Insights
-Created visual analytics dashboards to identify trends and support data-driven decision-making.
-
-### 🐍 Python Data Analysis
-Used Python and Pandas for data cleaning, transformation, exploratory analysis, and reporting automation.
-
-### ☁️ Azure Data Pipeline
-Developed data ingestion and transformation workflows using Azure services to support analytics solutions.
-
-
----
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satilmis-yusuf)
-
----
-
-## 📊 GitHub Stats
-
-![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufleeptalent&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufleeptalent&layout=compact&theme=tokyonight)
----
-
-### 💬 Quote
-
-> "Without data, you're just another person with an opinion." – W. Edwards Deming
+<!-- 🔷 Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+</p>
